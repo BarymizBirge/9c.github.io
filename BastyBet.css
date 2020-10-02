@@ -25,12 +25,6 @@ body header:hover {
 	height: 150px; padding: 0;
 }
 .gltx {font-family: Num1; font-size: 90px; display:flex;}
-#up img{height: 70px;width: 70px;}
-#up {position: fixed;bottom:60px;right: 10px;border-radius: 50%; opacity: 60%;}
-#up:hover{opacity: 100%;}
-#down img{height: 70px;width: 70px; transform: rotate(180deg);}
-#down {position: fixed;bottom:10px;right: 10px;border-radius: 50%; opacity: 60%;}
-#down:hover{opacity: 100%;}
 body main .tx {
 	font-family: Ohy;
 	font-size: 30px;

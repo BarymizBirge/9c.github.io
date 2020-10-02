@@ -25,11 +25,11 @@ body header:hover {
 	height: 150px; padding: 0;
 }
 .gltx {font-family: Num1; font-size: 90px; display:flex;}
-#up img{height: 30%;width: 30%;}
-#up {position: fixed;bottom:70px;right: 10px;border-radius: 50%; opacity: 60%;}
+#up img{height: 20%;width: 20%;}
+#up {position: fixed;bottom:90px;right: 30px;border-radius: 50%; opacity: 60%;}
 #up:hover{opacity: 100%;}
-#down img{height: 30%;width: 30%; transform: rotate(180deg);}
-#down {position: fixed;bottom:10px;right: 10px;border-radius: 50%; opacity: 60%;}
+#down img{height: 20%;width: 20%; transform: rotate(180deg);}
+#down {position: fixed;bottom:30px;right: 30px;border-radius: 50%; opacity: 60%;}
 #down:hover{opacity: 100%;}
 body main .tx {
 	font-family: Ohy;

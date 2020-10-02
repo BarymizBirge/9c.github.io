@@ -56,8 +56,8 @@ body main div .activ {
 	height: 450px;
 	border: 3px solid black;
 }
-.activ1:hover{transform: translate(230px,0) scale(2.5);}
-.activ2:hover{transform: translate(-230px,0) scale(2.5);}
-.activ3:hover{transform: translate(0, -230px) scale(2.5);}
+.activ1:hover{transform: scale(2.5);}
+.activ2:hover{transform: scale(2.5);}
+.activ3:hover{transform: scale(2.5);}
 body footer {background-color:#fc9;	min-height: 10em;}
 body footer p {font-family: Leeds;font-size: 90px; padding: 20px 0 0 70px; color: black; }
